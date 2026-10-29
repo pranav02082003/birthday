@@ -1,0 +1,27 @@
+// ✏️ EDIT ME: drop files into public/media/photos/ and list them here.
+// Missing files show a pretty fallback, so the site works before you add photos.
+export default [
+  { src: '/media/photos/specs-smile-1.jpg', caption: 'this smile, always', alt: 'Jahnavi smiling in a floral top' },
+  { src: '/media/photos/saree-day-1.jpg', caption: 'saree day, and the campus went quiet', alt: 'Jahnavi in a half-saree on a campus road' },
+  { src: '/media/photos/saree-day-girls.jpg', caption: 'the saree-day squad', alt: 'Four friends in sarees' },
+  { src: '/media/photos/umbrella.jpg', caption: 'carrying her own sky', alt: 'Jahnavi under a patterned umbrella' },
+  { src: '/media/photos/cat-faces.jpg', caption: 'separated at birth 😹', alt: 'Collage of Jahnavi’s expressions next to matching cat faces' },
+  { src: '/media/photos/saree-day-2.jpg', caption: 'posing like a pro', alt: 'Jahnavi posing by a tree in a saree' },
+  { src: '/media/photos/car-window.jpg', caption: 'lost in thought, found in frame', alt: 'Black and white photo of Jahnavi by a car window' },
+  { src: '/media/photos/saree-day-duo.jpg', caption: 'partners in crime', alt: 'Jahnavi with a friend on saree day' },
+  { src: '/media/photos/red-sky.jpg', caption: 'red against the sky', alt: 'Jahnavi in a red lehenga against the sky' },
+  { src: '/media/photos/golden-light.jpg', caption: 'golden hour, indoors', alt: 'Jahnavi in warm light' },
+  { src: '/media/photos/night-lights.jpg', caption: 'looking up at the lights', alt: 'Jahnavi looking up at lamps at night' },
+  { src: '/media/photos/saree-day-3.jpg', caption: 'teal and red', alt: 'Jahnavi with a friend in sarees' },
+  { src: '/media/photos/denim.jpg', caption: 'denim and greenery', alt: 'Jahnavi in a denim shirt among plants' },
+  { src: '/media/photos/blue-edit.jpg', caption: 'one of you is never enough', alt: 'Multi-pose edit of Jahnavi in blue' },
+  { src: '/media/photos/sling.jpg', caption: 'injured, never defeated ✌️', alt: 'Jahnavi with her arm in a sling making a peace sign' },
+  { src: '/media/photos/specs-smile-2.jpg', caption: 'chin on hand, mischief loading', alt: 'Jahnavi resting her chin on her hand' },
+  { src: '/media/photos/pink-garden.jpg', caption: 'in bloom', alt: 'Jahnavi in a pink dress in a garden' },
+  { src: '/media/photos/saree-day-4.jpg', caption: 'saree day, take two', alt: 'Jahnavi with a friend on saree day' },
+  { src: '/media/photos/saree-day-pair.jpg', caption: '2 March 2024', alt: 'Jahnavi with a friend on saree day' },
+  { src: '/media/photos/farewell.jpg', caption: 'farewell night', alt: 'Farewell night under string lights' },
+  { src: '/media/photos/insta-feed.jpg', caption: 'your feed, basically a magazine', alt: 'Screenshot of Jahnavi’s photo grid' },
+  { src: '/media/photos/id-card.jpg', caption: 'V Jahnavi, CSE — certified star', alt: 'Jahnavi’s college ID card' },
+  { src: '/media/photos/shoe.jpg', caption: 'no context. none needed.', alt: 'A foot in a shoe' },
+]
